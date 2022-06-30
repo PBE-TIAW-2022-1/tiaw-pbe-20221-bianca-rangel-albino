@@ -332,7 +332,241 @@ Para gestão do código fonte da plataforma que está sendo desenvolvida pela eq
 ## Tecnologias Utilizadas
 
 ......  COLOQUE AQUI O SEU TEXTO ......
+As tecnologias front-end utilizadas foram: 
 
+- HTML: responsável pela  estruturação do site
+- CSS: responsavél pela estilização
+- O framework Bootstrap: foi utilizado para conseguir fazer uma melhor responsividade
+- JavaScript: responsável pelas dinâmicas de funcionamento dos botões, expansão das receitas…
+
+Os dados das receitas e do usuário quando fizer o login estão armazenados no MockAPI, que é uma ferramenta simples para realizar operações nele usando a interface RESTful. 
+
+A hospedagem do site, foi feita no Replit, que é feita com a colagem do codigo do github na plataforma e gerado o link.
+## **5.2 Template do Site**
+
+O padrão de layout a ser utilizado pelo site tem correspondência ao projeto de Interface elaborado anteriormente, conforme a imagem abaixo.
+
+*Imagem 17:Template Padrão do site*
+
+[https://lh4.googleusercontent.com/K6nTEgOom-F0R4794eyyXY4JN_5_L5VJrVb4CK70yRJ3Mppkbdos0mvsGLg1aox8EmrS6PCDUr2F-vsk7cS0llvxyZ5gIvESTEimI33XAkkO_DAemrb7I-qBxSfJmp1UKmk2YlWQfkvcZ_Cprw](https://lh4.googleusercontent.com/K6nTEgOom-F0R4794eyyXY4JN_5_L5VJrVb4CK70yRJ3Mppkbdos0mvsGLg1aox8EmrS6PCDUr2F-vsk7cS0llvxyZ5gIvESTEimI33XAkkO_DAemrb7I-qBxSfJmp1UKmk2YlWQfkvcZ_Cprw)
+
+O template criado está disponível no site [http://github.com/…](http://github.com/%E2%80%A6)..  e é composto pelos seguintes layouts:
+
+- Tela principal
+- Encontrar Receitas/Lista de Receitas
+- Tela de visualização da receita
+- Tela de Minhas Receitas
+
+A responsividade segue o padrão do Bootstrap.
+
+### **5.2.1 HomePage**
+
+A página permite todas as visualizações iniciais(navbar com login, sobre, minhas receitas e encontrar receitas)
+
+*Imagem 18:HomePage*
+
+[https://lh4.googleusercontent.com/XQj5O7J-2bTxNU9JBjM7rUDTgF1ID45XB5m0LA_aR6RvnXZRRBUVB5MLGIT88Vca3kKYNiBXgVnHgNfqyLtf2KSXzTi0bJqCOh0VIUCj3OVIMwz2IcW3cfITl78Kc7BWabfGRqmxLZzrVPJLDhU](https://lh4.googleusercontent.com/XQj5O7J-2bTxNU9JBjM7rUDTgF1ID45XB5m0LA_aR6RvnXZRRBUVB5MLGIT88Vca3kKYNiBXgVnHgNfqyLtf2KSXzTi0bJqCOh0VIUCj3OVIMwz2IcW3cfITl78Kc7BWabfGRqmxLZzrVPJLDhU)
+
+### **5.2.2 Sobre**
+
+Esse layout permite a visualização das informações sobre o site, um pouco da explicação das razões de sua criação.
+
+*Imagem 19: Tela Sobre*
+
+[https://lh4.googleusercontent.com/livVTYgye9ZKTP3G24iueFwGUU75REFNlz57tKQFSKTAecBhriTpDYmdPVxfv4DVvuO-038la3mQwWL1CDwN6Y9CZ4g6DqD4zIPI0C7IYti1QD-6cpdFqMQMmLFwAVk_Xby5Qc36fA_Uf-EtoA](https://lh4.googleusercontent.com/livVTYgye9ZKTP3G24iueFwGUU75REFNlz57tKQFSKTAecBhriTpDYmdPVxfv4DVvuO-038la3mQwWL1CDwN6Y9CZ4g6DqD4zIPI0C7IYti1QD-6cpdFqMQMmLFwAVk_Xby5Qc36fA_Uf-EtoA)
+
+### **5.2.3 Receitas Preferidas**
+
+Esse layout é utilizado para a visualização da lista de receitas e da barra de busca por nome das receitas.
+
+*Imagem 20: Tela Receitas Preferidas*
+
+[https://lh5.googleusercontent.com/7SwwHoPoKg8OkJsKazhID4wa_9668GlpWSlqkZYLpW5DMURMAWi9FD-_Xene1wmsxTr1t3lzZyXtRh1srB61gxTSEewdc-VVgzuTnH8viCwHZnCiFFRIhaTbFKC9ZcXbMFjB0Vpm-417XMbL2U0](https://lh5.googleusercontent.com/7SwwHoPoKg8OkJsKazhID4wa_9668GlpWSlqkZYLpW5DMURMAWi9FD-_Xene1wmsxTr1t3lzZyXtRh1srB61gxTSEewdc-VVgzuTnH8viCwHZnCiFFRIhaTbFKC9ZcXbMFjB0Vpm-417XMbL2U0)
+
+### **5.2.4 Minhas receitas**
+
+Tela, no qual permite a visualização da listagem das receitas que foram favoritadas pelo usuário.
+
+*Imagem 21: Tela Minhas Receitas*
+
+[https://lh6.googleusercontent.com/9fkBNIII1zML2o_Zw_SonT-CoqWdXy-lenZZ1INkZe489RYqi_i727GRcc4LUqaE8j2DHTlInhGNuzkxEZpw69LHm0AfOC_24Xc9SN9bL9rgf980cu904L0b7uYi9uF-Cqr6-l2fRu0VBKQGeto](https://lh6.googleusercontent.com/9fkBNIII1zML2o_Zw_SonT-CoqWdXy-lenZZ1INkZe489RYqi_i727GRcc4LUqaE8j2DHTlInhGNuzkxEZpw69LHm0AfOC_24Xc9SN9bL9rgf980cu904L0b7uYi9uF-Cqr6-l2fRu0VBKQGeto)
+
+## **5.3 Funcionalidades do Sistema (Telas)**
+
+Nesta seção são apresentadas as telas desenvolvidas para cada uma das funcionalidades do sistema.
+
+### **5.3.1 Login (RF-06)**
+
+A tela de login, é onde o usuário vai se cadastrar no site, ou seja, criar um perfil para ter acesso a visualização das receitas e poder favoritá-las. Essas informações ficarão armazenadas no Mock API.
+
+*Imagem 22: Telas de Login*
+
+### 
+
+[https://lh5.googleusercontent.com/Tke_UsDdBCGDQ2luLgiB0dol50JRYcPDHxM3oxuuTOhkU0I9Umzdz4PN5HFe_GMQtlgiUiE6UIEMQ9lH0PD2YBud97mcqjadcKT2rBFa0OLRg4lz3W72JdS7qGfP4UIICJ6hglTZJY8ujie6Wyk](https://lh5.googleusercontent.com/Tke_UsDdBCGDQ2luLgiB0dol50JRYcPDHxM3oxuuTOhkU0I9Umzdz4PN5HFe_GMQtlgiUiE6UIEMQ9lH0PD2YBud97mcqjadcKT2rBFa0OLRg4lz3W72JdS7qGfP4UIICJ6hglTZJY8ujie6Wyk)
+
+[https://lh3.googleusercontent.com/c1ESaxcgYkkhy1pz7YgI5vlfwxGF9Y9CekXi3P-eqDUtoDNvDq8d9WMKeXQ58lHcIWHizsHm0Cy_ap31wiP02yKSIGufNzhpq1Pio6zBoTl7xAjRdZJq90APInkOA290otkUQD6VzBNKNsmDuHw](https://lh3.googleusercontent.com/c1ESaxcgYkkhy1pz7YgI5vlfwxGF9Y9CekXi3P-eqDUtoDNvDq8d9WMKeXQ58lHcIWHizsHm0Cy_ap31wiP02yKSIGufNzhpq1Pio6zBoTl7xAjRdZJq90APInkOA290otkUQD6VzBNKNsmDuHw)
+
+**Requisitos atendidos**
+
+- RF-06 - O site deve ser acessado por meio de uma página de login. no qual o usuário logado terá acesso a todas as funcionalidades do site
+
+**Artefatos da funcionalidade**
+
+- telaDecadastro.html
+- telaDeLogin.html
+- handleCreateUser.js
+- handleLoginUser.js
+- handleLogoutUser.js
+- style.css
+
+**Instruções de acesso**
+
+1. Abra um navegador de Internet e informe a seguinte URL: [https://repl.it/Sf3l@#3ks](https://repl.it/Sf3l@#3ks)
+2. Clique em “Encontrar Receitas” na HomePage, para abrir a tela de login
+
+**5.3.2 Visualização da lista de receitas (RF-01)**
+
+A tela principal do sistema apresenta a listagem de receitas, essa tela é aberta logo após a realização do login. As receitas são armazenadas na Mock API. Um exemplo da estrutura da tela é apresentada na imagem abaixo.
+
+*Imagem 22: Tela Encontrar Receitas*
+
+### 
+
+[https://lh6.googleusercontent.com/NWmID1psxxMJbFiTVUYnnFoKtdcaFC1OadGHLSwtqshcN2T_AOsMPrPM25d7X5Qkd8N9fvjsWuZ9sYj_3YCyowthHSrCtLSDHPpXMzqP0bEbiBhsVN_0_lWMMg9yr_xLL02IoR1HxDMQlbsJ22w](https://lh6.googleusercontent.com/NWmID1psxxMJbFiTVUYnnFoKtdcaFC1OadGHLSwtqshcN2T_AOsMPrPM25d7X5Qkd8N9fvjsWuZ9sYj_3YCyowthHSrCtLSDHPpXMzqP0bEbiBhsVN_0_lWMMg9yr_xLL02IoR1HxDMQlbsJ22w)
+
+**Requisitos atendidos**
+
+- RF-01 - O site deve apresentar na página principal, uma lista de receitas
+
+**Artefatos da funcionalidade**
+
+- index.html
+- telaDeReceitas.html
+- script.js
+- style.css
+
+**Estrutura de Dados**
+
+Link da estrutura de dados na API: [https://mockapi.io/projects/62b8c2b9f4cb8d63df624475](https://mockapi.io/projects/62b8c2b9f4cb8d63df624475)
+
+*Imagem 23: Estrutura de Dados em formato JSON, hospedado na MockApi*
+
+[https://lh6.googleusercontent.com/lBYznYl8d5ttfPNyHDDEqmJl6t-I71lXgaI_37hRGDryK_tlCrup3eKoGWAzJRw3rhI1AoxMe8bgwSwInPUTsoLONLnUyOqEve1NApZg0HlLys6NPcP3jhZbvVBbXWiJK05cJaYnpe7gtA63hNw](https://lh6.googleusercontent.com/lBYznYl8d5ttfPNyHDDEqmJl6t-I71lXgaI_37hRGDryK_tlCrup3eKoGWAzJRw3rhI1AoxMe8bgwSwInPUTsoLONLnUyOqEve1NApZg0HlLys6NPcP3jhZbvVBbXWiJK05cJaYnpe7gtA63hNw)
+
+**Instruções de acesso**
+
+1. Abra um navegador de Internet e informe a seguinte URL: [https://repl.it/Sf3l@#3ks](https://repl.it/Sf3l@#3ks)
+2. Faça o login.
+3. A tela da listagem de receitas é a primeira a ser exibida após o login.
+
+### **5.3.3 Encontrar Receitas (RF-03)**
+
+A tela “Encontrar Receitas”, oferece uma barra de pesquisa que permite ao usuário informar um texto que será pesquisado na base de dados das receitas e retornar todas as receitas relacionadas com o texto informado pelo usuário.
+
+*Imagem 24: Encontrar Receitas*
+
+### 
+
+[https://lh4.googleusercontent.com/PDDbrS6rHg-eGIXXCIBreY7WIW9DCjPRbBSWMb5HdbW0sH-tM8flHKoJW1yStqlkMx2YVX8stG5lRBlQDuAiBpQo191pVQcXtan9jccZZrQw7lpo-V6Bua7hlE6PSTNzFvwRxRi5Vnk5yhTqz58](https://lh4.googleusercontent.com/PDDbrS6rHg-eGIXXCIBreY7WIW9DCjPRbBSWMb5HdbW0sH-tM8flHKoJW1yStqlkMx2YVX8stG5lRBlQDuAiBpQo191pVQcXtan9jccZZrQw7lpo-V6Bua7hlE6PSTNzFvwRxRi5Vnk5yhTqz58)
+
+**Requisitos atendidos**
+
+- RF-03 - O site deve oferecer uma funcionalidade de pesquisa para permitir ao usuário localizar a receita que queira cozinhar.
+
+**Artefatos da funcionalidade**
+
+- telaDeReceitas.html
+- script.js
+- style.css
+
+**Instruções de acesso**
+
+1. Abra um navegador de Internet e informe a seguinte URL: [https://repl.it/Sf3l@#3ks](https://repl.it/Sf3l@#3ks)
+2. Após fazer o login, clique na barra de pesquisa
+3. Digite uma receita a ser pesquisada
+
+**5.3.4 Visualização dos detalhes das receitas (RF-02 e RF-04)**
+
+A tela dos detalhes das receitas, visa permitir ao usuário a visualização da receita completa que ele escolheu que estão armazenadas na Mock API. Dessa forma, ele verá os ingredientes, modo de preparo, a imagem da receita, o tempo de preparo e quantas porções determinada receita rende.
+
+*Imagem 25: Visualização dos detalhes das receitas*
+
+### 
+
+[https://lh5.googleusercontent.com/wkKY66Oi3ADrlStnZ-Y4BP2wxG3bwO2fs60b4I3LOfy3LGcQjhtL7DJ6YjZeg_k6x7EWhVe_IrJuV5Pby8V3k2QPQW-fGesir2lCjMmTgiS1XnFD3K6pgHEKrgwHspTXVOvId0eH95CS1b-H7NY](https://lh5.googleusercontent.com/wkKY66Oi3ADrlStnZ-Y4BP2wxG3bwO2fs60b4I3LOfy3LGcQjhtL7DJ6YjZeg_k6x7EWhVe_IrJuV5Pby8V3k2QPQW-fGesir2lCjMmTgiS1XnFD3K6pgHEKrgwHspTXVOvId0eH95CS1b-H7NY)
+
+**Requisitos atendidos**
+
+- RF-02 - O site deve permitir ao usuário visualizar a receita completa com todos os ingredientes, modo de preparo, tempo de cozimento e porções que rende.
+- RF - 04 - O site deve apresentar, um vídeo ou imagem equivalente à receita.
+
+**Artefatos da funcionalidade**
+
+- telaDeReceitas.html
+- script.js
+- asdas.css
+
+**Instruções de acesso**
+
+1. Abra um navegador de Internet e informe a seguinte URL: [https://repl.it/Sf3l@#3ks](https://repl.it/Sf3l@#3ks)
+2. Faça o login
+3. A tela de receitas é a primeira tela a ser exibida após o login
+4. Clique no botão “Mão na massa”, localizado no card da receita escolhida
+5. Para fechar, só clicar no botão “Deixa pra lá”.
+
+# **5.3.5 Acessar receitas favoritas (RF-05 e RF-07)**
+
+A tela Minhas Receitas, permite a visualização do usuário de todas as receitas que ele salvou, essa funcionalidade fica armazenada no perfil do usuário, ou seja, apenas quando ele fizer o login vai ser possível visualizar essas receitas.
+
+*Imagem 26: Acessar receitas favoritas*
+
+### 
+
+[https://lh4.googleusercontent.com/pyEVFs3-6cv6Mco9tU24BZ6RikB-46kQINfSVfZE_M-dP56mG4lz9CZ58uqnIUpGpwyGSrT3cfn_5TJut11k2dFyKZwf6vAeMTjIjybksEwRa0ts5EcufoWXasyvmOaNWaATa33xjqgMBkocOjc](https://lh4.googleusercontent.com/pyEVFs3-6cv6Mco9tU24BZ6RikB-46kQINfSVfZE_M-dP56mG4lz9CZ58uqnIUpGpwyGSrT3cfn_5TJut11k2dFyKZwf6vAeMTjIjybksEwRa0ts5EcufoWXasyvmOaNWaATa33xjqgMBkocOjc)
+
+**Requisitos atendidos**
+
+- RF-05 - Verificar receitas salvas como preferidas
+- RF-07 - O site deve permitir favoritar e salvar as receitas
+
+**Artefatos da funcionalidade**
+
+- telaMinhasReceitas.html
+- handleSavedRecipes.js
+- style.css
+
+**Instruções de acesso**
+
+1. Abra um navegador de Internet e informe a seguinte URL: [https://repl.it/Sf3l@#3ks](https://repl.it/Sf3l@#3ks)
+2. A tela no qual estão todas as receitas é a primeira funcionalidade exibida pelo site, após o login
+3. Salve uma receita que lhe interessar
+4. Entre na página “Minhas Receitas”
+5. Vai ser possível visualizar a receita favoritada
+
+**5.3.6 Tela sobre (RF-08)**
+
+A tela sobre permite ao usuário conhecer um pouco dos objetivos da criação do site, ou seja, entender a razão pela qual a equipe criou o site. Essa funcionalidade, é a única que não precisa do usuário fazer o login, para visualizar todas as informações.
+
+*Imagem 27: Tela Sobre*
+
+### 
+
+[https://lh5.googleusercontent.com/HrqK3_HywVGSP0HceycdBs0rHpWOnW9Q3SyJhU82tN0BwV_lzi-9Mc-gaSOSnBAliryuYdb7PB5aTjR_aNIUNyGbXE__pjjmZkC-X2Qn3BqnAE83nsjEPAPx7ti-BgJppUcwhl_0jwlqJWoZJ6g](https://lh5.googleusercontent.com/HrqK3_HywVGSP0HceycdBs0rHpWOnW9Q3SyJhU82tN0BwV_lzi-9Mc-gaSOSnBAliryuYdb7PB5aTjR_aNIUNyGbXE__pjjmZkC-X2Qn3BqnAE83nsjEPAPx7ti-BgJppUcwhl_0jwlqJWoZJ6g)
+
+**Requisitos atendidos**
+
+- RF-08 - O site deve permitir visualizar uma tela com as informações da equipe e suas razões de ter criado a página
+
+**Artefatos da funcionalidade**
+
+- telaSobre.html
+- style.css
+
+**Instruções de acesso**
+
+1. Abra um navegador de Internet e informe a seguinte URL: [https://repl.it/Sf3l@#3ks](https://repl.it/Sf3l@#3ks)
+2. Entre na tela sobre
 > Descreva aqui qual(is) tecnologias você vai usar para resolver o seu
 > problema, ou seja, implementar a sua solução. Liste todas as
 > tecnologias envolvidas, linguagens a serem utilizadas, serviços web,
