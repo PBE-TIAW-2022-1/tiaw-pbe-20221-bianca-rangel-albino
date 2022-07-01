@@ -877,7 +877,6 @@ Tabela 34: Registro de testes de usabilidade - Usuário 8
 
 ## Registros de Testes
 
-......  COLOQUE AQUI O SEU TEXTO ......
 Os resultados dos testes de usabilidade, não foram tão satisfatórios. Houve uma identificação de bugs que a equipe não tinha detectado. Alguns deles são:
 * Responsividade da Tela Sobre não está adequada
 * Poucas receitas, por mais que o grupo tenha colocado 39 receitas
