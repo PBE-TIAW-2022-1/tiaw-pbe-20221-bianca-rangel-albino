@@ -348,7 +348,7 @@ O padrão de layout a ser utilizado pelo site tem correspondência ao projeto de
 
 ![image](https://lh4.googleusercontent.com/K6nTEgOom-F0R4794eyyXY4JN_5_L5VJrVb4CK70yRJ3Mppkbdos0mvsGLg1aox8EmrS6PCDUr2F-vsk7cS0llvxyZ5gIvESTEimI33XAkkO_DAemrb7I-qBxSfJmp1UKmk2YlWQfkvcZ_Cprw)
 
-O template criado está disponível no site [http://github.com/…](http://github.com/%E2%80%A6)..  e é composto pelos seguintes layouts:
+O template criado está disponível no site [[http://github.com/…](http://github.com/%E2%80%A6)..](https://techfood-v3.joaogabriels.repl.co/index.html)  e é composto pelos seguintes layouts:
 
 - Tela principal
 - Encontrar Receitas/Lista de Receitas
@@ -357,7 +357,7 @@ O template criado está disponível no site [http://github.com/…](http://githu
 
 A responsividade segue o padrão do Bootstrap.
 
-### **5.2.1 HomePage**
+### ** HomePage**
 
 A página permite todas as visualizações iniciais(navbar com login, sobre, minhas receitas e encontrar receitas)
 
@@ -365,23 +365,23 @@ A página permite todas as visualizações iniciais(navbar com login, sobre, min
 
 ![image](https://lh4.googleusercontent.com/XQj5O7J-2bTxNU9JBjM7rUDTgF1ID45XB5m0LA_aR6RvnXZRRBUVB5MLGIT88Vca3kKYNiBXgVnHgNfqyLtf2KSXzTi0bJqCOh0VIUCj3OVIMwz2IcW3cfITl78Kc7BWabfGRqmxLZzrVPJLDhU)
 
-### 5.2.2 Sobre
+### Sobre
 
 Esse layout permite a visualização das informações sobre o site, um pouco da explicação das razões de sua criação.
 
 *Tela Sobre*
 
 ![image](https://lh4.googleusercontent.com/livVTYgye9ZKTP3G24iueFwGUU75REFNlz57tKQFSKTAecBhriTpDYmdPVxfv4DVvuO-038la3mQwWL1CDwN6Y9CZ4g6DqD4zIPI0C7IYti1QD-6cpdFqMQMmLFwAVk_Xby5Qc36fA_Uf-EtoA)
-![image](https://lh4.googleusercontent.com/livVTYgye9ZKTP3G24iueFwGUU75REFNlz57tKQFSKTAecBhriTpDYmdPVxfv4DVvuO-038la3mQwWL1CDwN6Y9CZ4g6DqD4zIPI0C7IYti1QD-6cpdFqMQMmLFwAVk_Xby5Qc36fA_Uf-EtoA)
 
-### 5.2.3 Receitas Preferidas
+
+### Receitas Preferidas
 
 Esse layout é utilizado para a visualização da lista de receitas e da barra de busca por nome das receitas.
 
 *Tela Receitas Preferidas*
 
 ![image](https://lh5.googleusercontent.com/7SwwHoPoKg8OkJsKazhID4wa_9668GlpWSlqkZYLpW5DMURMAWi9FD-_Xene1wmsxTr1t3lzZyXtRh1srB61gxTSEewdc-VVgzuTnH8viCwHZnCiFFRIhaTbFKC9ZcXbMFjB0Vpm-417XMbL2U0)
-![image](https://lh5.googleusercontent.com/7SwwHoPoKg8OkJsKazhID4wa_9668GlpWSlqkZYLpW5DMURMAWi9FD-_Xene1wmsxTr1t3lzZyXtRh1srB61gxTSEewdc-VVgzuTnH8viCwHZnCiFFRIhaTbFKC9ZcXbMFjB0Vpm-417XMbL2U0)
+
 
 ###Minhas receitas
 
@@ -390,7 +390,7 @@ Tela, no qual permite a visualização da listagem das receitas que foram favori
 *Tela Minhas Receitas*
 
 ![image](https://lh6.googleusercontent.com/9fkBNIII1zML2o_Zw_SonT-CoqWdXy-lenZZ1INkZe489RYqi_i727GRcc4LUqaE8j2DHTlInhGNuzkxEZpw69LHm0AfOC_24Xc9SN9bL9rgf980cu904L0b7uYi9uF-Cqr6-l2fRu0VBKQGeto)
-![image](https://lh6.googleusercontent.com/9fkBNIII1zML2o_Zw_SonT-CoqWdXy-lenZZ1INkZe489RYqi_i727GRcc4LUqaE8j2DHTlInhGNuzkxEZpw69LHm0AfOC_24Xc9SN9bL9rgf980cu904L0b7uYi9uF-Cqr6-l2fRu0VBKQGeto)
+
 
 ## **Funcionalidades do Sistema (Telas)**
 
