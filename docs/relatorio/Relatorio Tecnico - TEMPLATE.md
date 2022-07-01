@@ -327,7 +327,7 @@ Para gestão do código fonte da plataforma que está sendo desenvolvida pela eq
 
 # Projeto da Solução
 
-......  COLOQUE AQUI O SEU TEXTO ......
+
 
 ## Tecnologias Utilizadas
 
@@ -348,7 +348,7 @@ O padrão de layout a ser utilizado pelo site tem correspondência ao projeto de
 
 *Imagem 17:Template Padrão do site*
 
-[https://lh4.googleusercontent.com/K6nTEgOom-F0R4794eyyXY4JN_5_L5VJrVb4CK70yRJ3Mppkbdos0mvsGLg1aox8EmrS6PCDUr2F-vsk7cS0llvxyZ5gIvESTEimI33XAkkO_DAemrb7I-qBxSfJmp1UKmk2YlWQfkvcZ_Cprw](https://lh4.googleusercontent.com/K6nTEgOom-F0R4794eyyXY4JN_5_L5VJrVb4CK70yRJ3Mppkbdos0mvsGLg1aox8EmrS6PCDUr2F-vsk7cS0llvxyZ5gIvESTEimI33XAkkO_DAemrb7I-qBxSfJmp1UKmk2YlWQfkvcZ_Cprw)
+![image](https://lh4.googleusercontent.com/K6nTEgOom-F0R4794eyyXY4JN_5_L5VJrVb4CK70yRJ3Mppkbdos0mvsGLg1aox8EmrS6PCDUr2F-vsk7cS0llvxyZ5gIvESTEimI33XAkkO_DAemrb7I-qBxSfJmp1UKmk2YlWQfkvcZ_Cprw)
 
 O template criado está disponível no site [http://github.com/…](http://github.com/%E2%80%A6)..  e é composto pelos seguintes layouts:
 
@@ -365,7 +365,7 @@ A página permite todas as visualizações iniciais(navbar com login, sobre, min
 
 *Imagem 18:HomePage*
 
-[https://lh4.googleusercontent.com/XQj5O7J-2bTxNU9JBjM7rUDTgF1ID45XB5m0LA_aR6RvnXZRRBUVB5MLGIT88Vca3kKYNiBXgVnHgNfqyLtf2KSXzTi0bJqCOh0VIUCj3OVIMwz2IcW3cfITl78Kc7BWabfGRqmxLZzrVPJLDhU](https://lh4.googleusercontent.com/XQj5O7J-2bTxNU9JBjM7rUDTgF1ID45XB5m0LA_aR6RvnXZRRBUVB5MLGIT88Vca3kKYNiBXgVnHgNfqyLtf2KSXzTi0bJqCOh0VIUCj3OVIMwz2IcW3cfITl78Kc7BWabfGRqmxLZzrVPJLDhU)
+![image](https://lh4.googleusercontent.com/XQj5O7J-2bTxNU9JBjM7rUDTgF1ID45XB5m0LA_aR6RvnXZRRBUVB5MLGIT88Vca3kKYNiBXgVnHgNfqyLtf2KSXzTi0bJqCOh0VIUCj3OVIMwz2IcW3cfITl78Kc7BWabfGRqmxLZzrVPJLDhU)
 
 ### **5.2.2 Sobre**
 
@@ -373,7 +373,8 @@ Esse layout permite a visualização das informações sobre o site, um pouco da
 
 *Imagem 19: Tela Sobre*
 
-[https://lh4.googleusercontent.com/livVTYgye9ZKTP3G24iueFwGUU75REFNlz57tKQFSKTAecBhriTpDYmdPVxfv4DVvuO-038la3mQwWL1CDwN6Y9CZ4g6DqD4zIPI0C7IYti1QD-6cpdFqMQMmLFwAVk_Xby5Qc36fA_Uf-EtoA](https://lh4.googleusercontent.com/livVTYgye9ZKTP3G24iueFwGUU75REFNlz57tKQFSKTAecBhriTpDYmdPVxfv4DVvuO-038la3mQwWL1CDwN6Y9CZ4g6DqD4zIPI0C7IYti1QD-6cpdFqMQMmLFwAVk_Xby5Qc36fA_Uf-EtoA)
+![image](https://lh4.googleusercontent.com/livVTYgye9ZKTP3G24iueFwGUU75REFNlz57tKQFSKTAecBhriTpDYmdPVxfv4DVvuO-038la3mQwWL1CDwN6Y9CZ4g6DqD4zIPI0C7IYti1QD-6cpdFqMQMmLFwAVk_Xby5Qc36fA_Uf-EtoA)
+![image](https://lh4.googleusercontent.com/livVTYgye9ZKTP3G24iueFwGUU75REFNlz57tKQFSKTAecBhriTpDYmdPVxfv4DVvuO-038la3mQwWL1CDwN6Y9CZ4g6DqD4zIPI0C7IYti1QD-6cpdFqMQMmLFwAVk_Xby5Qc36fA_Uf-EtoA)
 
 ### **5.2.3 Receitas Preferidas**
 
@@ -381,7 +382,8 @@ Esse layout é utilizado para a visualização da lista de receitas e da barra d
 
 *Imagem 20: Tela Receitas Preferidas*
 
-[https://lh5.googleusercontent.com/7SwwHoPoKg8OkJsKazhID4wa_9668GlpWSlqkZYLpW5DMURMAWi9FD-_Xene1wmsxTr1t3lzZyXtRh1srB61gxTSEewdc-VVgzuTnH8viCwHZnCiFFRIhaTbFKC9ZcXbMFjB0Vpm-417XMbL2U0](https://lh5.googleusercontent.com/7SwwHoPoKg8OkJsKazhID4wa_9668GlpWSlqkZYLpW5DMURMAWi9FD-_Xene1wmsxTr1t3lzZyXtRh1srB61gxTSEewdc-VVgzuTnH8viCwHZnCiFFRIhaTbFKC9ZcXbMFjB0Vpm-417XMbL2U0)
+![image](https://lh5.googleusercontent.com/7SwwHoPoKg8OkJsKazhID4wa_9668GlpWSlqkZYLpW5DMURMAWi9FD-_Xene1wmsxTr1t3lzZyXtRh1srB61gxTSEewdc-VVgzuTnH8viCwHZnCiFFRIhaTbFKC9ZcXbMFjB0Vpm-417XMbL2U0)
+![image](https://lh5.googleusercontent.com/7SwwHoPoKg8OkJsKazhID4wa_9668GlpWSlqkZYLpW5DMURMAWi9FD-_Xene1wmsxTr1t3lzZyXtRh1srB61gxTSEewdc-VVgzuTnH8viCwHZnCiFFRIhaTbFKC9ZcXbMFjB0Vpm-417XMbL2U0)
 
 ### **5.2.4 Minhas receitas**
 
@@ -389,7 +391,8 @@ Tela, no qual permite a visualização da listagem das receitas que foram favori
 
 *Imagem 21: Tela Minhas Receitas*
 
-[https://lh6.googleusercontent.com/9fkBNIII1zML2o_Zw_SonT-CoqWdXy-lenZZ1INkZe489RYqi_i727GRcc4LUqaE8j2DHTlInhGNuzkxEZpw69LHm0AfOC_24Xc9SN9bL9rgf980cu904L0b7uYi9uF-Cqr6-l2fRu0VBKQGeto](https://lh6.googleusercontent.com/9fkBNIII1zML2o_Zw_SonT-CoqWdXy-lenZZ1INkZe489RYqi_i727GRcc4LUqaE8j2DHTlInhGNuzkxEZpw69LHm0AfOC_24Xc9SN9bL9rgf980cu904L0b7uYi9uF-Cqr6-l2fRu0VBKQGeto)
+![image](https://lh6.googleusercontent.com/9fkBNIII1zML2o_Zw_SonT-CoqWdXy-lenZZ1INkZe489RYqi_i727GRcc4LUqaE8j2DHTlInhGNuzkxEZpw69LHm0AfOC_24Xc9SN9bL9rgf980cu904L0b7uYi9uF-Cqr6-l2fRu0VBKQGeto)
+![image](https://lh6.googleusercontent.com/9fkBNIII1zML2o_Zw_SonT-CoqWdXy-lenZZ1INkZe489RYqi_i727GRcc4LUqaE8j2DHTlInhGNuzkxEZpw69LHm0AfOC_24Xc9SN9bL9rgf980cu904L0b7uYi9uF-Cqr6-l2fRu0VBKQGeto)
 
 ## **5.3 Funcionalidades do Sistema (Telas)**
 
@@ -403,9 +406,9 @@ A tela de login, é onde o usuário vai se cadastrar no site, ou seja, criar um 
 
 ### 
 
-[https://lh5.googleusercontent.com/Tke_UsDdBCGDQ2luLgiB0dol50JRYcPDHxM3oxuuTOhkU0I9Umzdz4PN5HFe_GMQtlgiUiE6UIEMQ9lH0PD2YBud97mcqjadcKT2rBFa0OLRg4lz3W72JdS7qGfP4UIICJ6hglTZJY8ujie6Wyk](https://lh5.googleusercontent.com/Tke_UsDdBCGDQ2luLgiB0dol50JRYcPDHxM3oxuuTOhkU0I9Umzdz4PN5HFe_GMQtlgiUiE6UIEMQ9lH0PD2YBud97mcqjadcKT2rBFa0OLRg4lz3W72JdS7qGfP4UIICJ6hglTZJY8ujie6Wyk)
+![image](https://lh5.googleusercontent.com/Tke_UsDdBCGDQ2luLgiB0dol50JRYcPDHxM3oxuuTOhkU0I9Umzdz4PN5HFe_GMQtlgiUiE6UIEMQ9lH0PD2YBud97mcqjadcKT2rBFa0OLRg4lz3W72JdS7qGfP4UIICJ6hglTZJY8ujie6Wyk)
 
-[https://lh3.googleusercontent.com/c1ESaxcgYkkhy1pz7YgI5vlfwxGF9Y9CekXi3P-eqDUtoDNvDq8d9WMKeXQ58lHcIWHizsHm0Cy_ap31wiP02yKSIGufNzhpq1Pio6zBoTl7xAjRdZJq90APInkOA290otkUQD6VzBNKNsmDuHw](https://lh3.googleusercontent.com/c1ESaxcgYkkhy1pz7YgI5vlfwxGF9Y9CekXi3P-eqDUtoDNvDq8d9WMKeXQ58lHcIWHizsHm0Cy_ap31wiP02yKSIGufNzhpq1Pio6zBoTl7xAjRdZJq90APInkOA290otkUQD6VzBNKNsmDuHw)
+![image](https://lh3.googleusercontent.com/c1ESaxcgYkkhy1pz7YgI5vlfwxGF9Y9CekXi3P-eqDUtoDNvDq8d9WMKeXQ58lHcIWHizsHm0Cy_ap31wiP02yKSIGufNzhpq1Pio6zBoTl7xAjRdZJq90APInkOA290otkUQD6VzBNKNsmDuHw)
 
 **Requisitos atendidos**
 
@@ -433,7 +436,7 @@ A tela principal do sistema apresenta a listagem de receitas, essa tela é abert
 
 ### 
 
-[https://lh6.googleusercontent.com/NWmID1psxxMJbFiTVUYnnFoKtdcaFC1OadGHLSwtqshcN2T_AOsMPrPM25d7X5Qkd8N9fvjsWuZ9sYj_3YCyowthHSrCtLSDHPpXMzqP0bEbiBhsVN_0_lWMMg9yr_xLL02IoR1HxDMQlbsJ22w](https://lh6.googleusercontent.com/NWmID1psxxMJbFiTVUYnnFoKtdcaFC1OadGHLSwtqshcN2T_AOsMPrPM25d7X5Qkd8N9fvjsWuZ9sYj_3YCyowthHSrCtLSDHPpXMzqP0bEbiBhsVN_0_lWMMg9yr_xLL02IoR1HxDMQlbsJ22w)
+![image](https://lh6.googleusercontent.com/NWmID1psxxMJbFiTVUYnnFoKtdcaFC1OadGHLSwtqshcN2T_AOsMPrPM25d7X5Qkd8N9fvjsWuZ9sYj_3YCyowthHSrCtLSDHPpXMzqP0bEbiBhsVN_0_lWMMg9yr_xLL02IoR1HxDMQlbsJ22w)
 
 **Requisitos atendidos**
 
@@ -448,11 +451,11 @@ A tela principal do sistema apresenta a listagem de receitas, essa tela é abert
 
 **Estrutura de Dados**
 
-Link da estrutura de dados na API: [https://mockapi.io/projects/62b8c2b9f4cb8d63df624475](https://mockapi.io/projects/62b8c2b9f4cb8d63df624475)
+Link da estrutura de dados na API: ![image](https://mockapi.io/projects/62b8c2b9f4cb8d63df624475)
 
 *Imagem 23: Estrutura de Dados em formato JSON, hospedado na MockApi*
 
-[https://lh6.googleusercontent.com/lBYznYl8d5ttfPNyHDDEqmJl6t-I71lXgaI_37hRGDryK_tlCrup3eKoGWAzJRw3rhI1AoxMe8bgwSwInPUTsoLONLnUyOqEve1NApZg0HlLys6NPcP3jhZbvVBbXWiJK05cJaYnpe7gtA63hNw](https://lh6.googleusercontent.com/lBYznYl8d5ttfPNyHDDEqmJl6t-I71lXgaI_37hRGDryK_tlCrup3eKoGWAzJRw3rhI1AoxMe8bgwSwInPUTsoLONLnUyOqEve1NApZg0HlLys6NPcP3jhZbvVBbXWiJK05cJaYnpe7gtA63hNw)
+![image](https://lh6.googleusercontent.com/lBYznYl8d5ttfPNyHDDEqmJl6t-I71lXgaI_37hRGDryK_tlCrup3eKoGWAzJRw3rhI1AoxMe8bgwSwInPUTsoLONLnUyOqEve1NApZg0HlLys6NPcP3jhZbvVBbXWiJK05cJaYnpe7gtA63hNw)
 
 **Instruções de acesso**
 
@@ -468,7 +471,7 @@ A tela “Encontrar Receitas”, oferece uma barra de pesquisa que permite ao us
 
 ### 
 
-[https://lh4.googleusercontent.com/PDDbrS6rHg-eGIXXCIBreY7WIW9DCjPRbBSWMb5HdbW0sH-tM8flHKoJW1yStqlkMx2YVX8stG5lRBlQDuAiBpQo191pVQcXtan9jccZZrQw7lpo-V6Bua7hlE6PSTNzFvwRxRi5Vnk5yhTqz58](https://lh4.googleusercontent.com/PDDbrS6rHg-eGIXXCIBreY7WIW9DCjPRbBSWMb5HdbW0sH-tM8flHKoJW1yStqlkMx2YVX8stG5lRBlQDuAiBpQo191pVQcXtan9jccZZrQw7lpo-V6Bua7hlE6PSTNzFvwRxRi5Vnk5yhTqz58)
+![image](https://lh4.googleusercontent.com/PDDbrS6rHg-eGIXXCIBreY7WIW9DCjPRbBSWMb5HdbW0sH-tM8flHKoJW1yStqlkMx2YVX8stG5lRBlQDuAiBpQo191pVQcXtan9jccZZrQw7lpo-V6Bua7hlE6PSTNzFvwRxRi5Vnk5yhTqz58)
 
 **Requisitos atendidos**
 
@@ -482,7 +485,7 @@ A tela “Encontrar Receitas”, oferece uma barra de pesquisa que permite ao us
 
 **Instruções de acesso**
 
-1. Abra um navegador de Internet e informe a seguinte URL: [https://repl.it/Sf3l@#3ks](https://repl.it/Sf3l@#3ks)
+1. Abra um navegador de Internet e informe a seguinte URL: ![image](https://repl.it/Sf3l@#3ks)
 2. Após fazer o login, clique na barra de pesquisa
 3. Digite uma receita a ser pesquisada
 
@@ -494,7 +497,7 @@ A tela dos detalhes das receitas, visa permitir ao usuário a visualização da 
 
 ### 
 
-[https://lh5.googleusercontent.com/wkKY66Oi3ADrlStnZ-Y4BP2wxG3bwO2fs60b4I3LOfy3LGcQjhtL7DJ6YjZeg_k6x7EWhVe_IrJuV5Pby8V3k2QPQW-fGesir2lCjMmTgiS1XnFD3K6pgHEKrgwHspTXVOvId0eH95CS1b-H7NY](https://lh5.googleusercontent.com/wkKY66Oi3ADrlStnZ-Y4BP2wxG3bwO2fs60b4I3LOfy3LGcQjhtL7DJ6YjZeg_k6x7EWhVe_IrJuV5Pby8V3k2QPQW-fGesir2lCjMmTgiS1XnFD3K6pgHEKrgwHspTXVOvId0eH95CS1b-H7NY)
+![image](https://lh5.googleusercontent.com/wkKY66Oi3ADrlStnZ-Y4BP2wxG3bwO2fs60b4I3LOfy3LGcQjhtL7DJ6YjZeg_k6x7EWhVe_IrJuV5Pby8V3k2QPQW-fGesir2lCjMmTgiS1XnFD3K6pgHEKrgwHspTXVOvId0eH95CS1b-H7NY)
 
 **Requisitos atendidos**
 
@@ -523,7 +526,7 @@ A tela Minhas Receitas, permite a visualização do usuário de todas as receita
 
 ### 
 
-[https://lh4.googleusercontent.com/pyEVFs3-6cv6Mco9tU24BZ6RikB-46kQINfSVfZE_M-dP56mG4lz9CZ58uqnIUpGpwyGSrT3cfn_5TJut11k2dFyKZwf6vAeMTjIjybksEwRa0ts5EcufoWXasyvmOaNWaATa33xjqgMBkocOjc](https://lh4.googleusercontent.com/pyEVFs3-6cv6Mco9tU24BZ6RikB-46kQINfSVfZE_M-dP56mG4lz9CZ58uqnIUpGpwyGSrT3cfn_5TJut11k2dFyKZwf6vAeMTjIjybksEwRa0ts5EcufoWXasyvmOaNWaATa33xjqgMBkocOjc)
+![image](https://lh4.googleusercontent.com/pyEVFs3-6cv6Mco9tU24BZ6RikB-46kQINfSVfZE_M-dP56mG4lz9CZ58uqnIUpGpwyGSrT3cfn_5TJut11k2dFyKZwf6vAeMTjIjybksEwRa0ts5EcufoWXasyvmOaNWaATa33xjqgMBkocOjc)
 
 **Requisitos atendidos**
 
@@ -552,7 +555,7 @@ A tela sobre permite ao usuário conhecer um pouco dos objetivos da criação do
 
 ### 
 
-[https://lh5.googleusercontent.com/HrqK3_HywVGSP0HceycdBs0rHpWOnW9Q3SyJhU82tN0BwV_lzi-9Mc-gaSOSnBAliryuYdb7PB5aTjR_aNIUNyGbXE__pjjmZkC-X2Qn3BqnAE83nsjEPAPx7ti-BgJppUcwhl_0jwlqJWoZJ6g](https://lh5.googleusercontent.com/HrqK3_HywVGSP0HceycdBs0rHpWOnW9Q3SyJhU82tN0BwV_lzi-9Mc-gaSOSnBAliryuYdb7PB5aTjR_aNIUNyGbXE__pjjmZkC-X2Qn3BqnAE83nsjEPAPx7ti-BgJppUcwhl_0jwlqJWoZJ6g)
+![image](https://lh5.googleusercontent.com/HrqK3_HywVGSP0HceycdBs0rHpWOnW9Q3SyJhU82tN0BwV_lzi-9Mc-gaSOSnBAliryuYdb7PB5aTjR_aNIUNyGbXE__pjjmZkC-X2Qn3BqnAE83nsjEPAPx7ti-BgJppUcwhl_0jwlqJWoZJ6g)
 
 **Requisitos atendidos**
 
@@ -582,37 +585,286 @@ A tela sobre permite ao usuário conhecer um pouco dos objetivos da criação do
 
 ## Arquitetura da solução
 
-......  COLOQUE AQUI O SEU TEXTO E O DIAGRAMA DE ARQUITETURA .......
+5.1.1 Diagrama de Componentes
+Os componentes que fazem parte da solução são apresentados na Figura que se segue.
+Imagem 16:Arquitetura de Solução(Canvas)
+![image]()
 
-> Inclua um diagrama da solução e descreva os módulos e as tecnologias
-> que fazem parte da solução. Discorra sobre o diagrama.
-> 
-> **Exemplo do diagrama de Arquitetura**:
-> 
-> ![Exemplo de Arquitetura](images/arquitetura-exemplo.png)
+
+
+A solução implementada conta com os seguintes módulos:
+Navegador - Interface básica do sistema 
+Páginas Web - Conjunto de arquivos HTML, CSS, Booststrap,  JavaScript e imagens que implementam as funcionalidades do sistema.
+Mock API - nos permite mockar APIs, armazenar dados em formato JSON e realizar operações neles. Os dados armazenados são:
+Receitas- listagem das receitas apresentadas, com os ingredientes, modo de preparo, tempo de preparo e rendimento das porções por pessoa
+Favoritas - lista de receitas mantidas para leitura e um acesso posterior.
+Login - Dados de login do usuário, para que fique armazenado e possa entrar novamente com o mesmo usuário e senha
+
+Hospedagem - local na Internet onde as páginas são mantidas e acessadas pelo navegador. 
+5.1.2 Hospedagem
+O site utiliza a plataforma do Replit como ambiente de hospedagem do site do projeto. O site é mantido no ambiente da URL: 
+
+https://TechFood-v3.joaogabriels.repl.co
+
+A publicação do site no Replit é feita por meio da clonagem de todas as pastas do projeto na plataforma. https://TechFood-v3.joaogabriels.repl.co 
+
 
 
 # Avaliação da Aplicação
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Apresente os cenários de testes utilizados na realização dos testes da
-> sua aplicação. Escolha cenários de testes que demonstrem os requisitos
-> sendo satisfeitos.
+O processo de realização dos testes da solução desenvolvida está documentado na seção que se segue e traz os planos de testes de software e de usabilidade, na sequência, o registro dos testes realizados.
 
 ## Plano de Testes
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Requisitos para realização do teste:
+Site publicado na Internet
+Navegador da Internet - Chrome, Firefox ou Edge
+Conectividade de Internet para acesso às plataformas (APIs)
 
-> Enumere quais cenários de testes foram selecionados para teste. Neste
-> tópico o grupo deve detalhar quais funcionalidades avaliadas, o grupo
-> de usuários que foi escolhido para participar do teste e as
-> ferramentas utilizadas.
-> 
-> **Links Úteis**:
-> - [IBM - Criação e Geração de Planos de Teste](https://www.ibm.com/developerworks/br/local/rational/criacao_geracao_planos_testes_software/index.html)
-> - [Práticas e Técnicas de Testes Ágeis](http://assiste.serpro.gov.br/serproagil/Apresenta/slides.pdf)
-> -  [Teste de Software: Conceitos e tipos de testes](https://blog.onedaytesting.com.br/teste-de-software/)
+Os testes funcionais a serem realizados no aplicativo são descritos a seguir.
+
+ Tabela 6: Plano de testes de software - 01
+|     Caso de Teste     | CT-01 - Visualizar lista de receitas na páginas principal (Home-Page)                                                                                                                |
+|:---------------------:|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Requisitos Associados | RF-01 - O site deve apresentar na página principal a listagem das receitas                                                                                                           |
+|   Objetivo do Teste   | Verificar se a listagem está aparecendo para visualização em forma de lista e se os dados da Mock API estão sendo consumidos.                                                        |
+|         Passos        | 1) Acessar o Navegador 2) Informar o endereço do Site 3)Fazer o Login 3) Visualizar a tela ‘Encontrar Receitas”, no qual está a lista de receitas  4) Verificar o processo de carga  |
+|   Critérios de Êxito  |  As receitas devem ser exibidas corretamente no site uma embaixo da outra, com o resumo, tempo de preparo e rendimento de porções                                                    |
+
+
+
+ Tabela 7: Plano de testes de software - 02
+|     Caso de Teste     | CT-02 - Visualizar detalhes das receitas                                                                                                                  |
+|:---------------------:|-----------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Requisitos Associados | RF-02 - O site deve permitir ao usuário visualizar a receita completa com todos os ingredientes e o modo de preparo                                       |
+|   Objetivo do Teste   | Verificar se os dados armazenados na Mock API estão sendo todos exibidos                                                                                  |
+|         Passos        | 1) Acessar o Navegador 2) Informar o endereço do Site 3) Fazer o Login 4) Clicar em “Mão na massa” da receita escolhida 5) Verificar o processo de carga  |
+|   Critérios de Êxito  |  A receita ao ser expandida, deve abrir uma janela, com as seguintes informações: ingredientes e modo de preparo                                          |
+A receita ao ser expandida, deve abrir uma janela, com as seguintes informações: ingredientes e modo de preparo
+
+
+ Tabela 8: Plano de testes de software - 03
+|     Caso de Teste     | CT-03 - Visualizar receita procurada na barra de pesquisa                                                                                                |
+|:---------------------:|----------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Requisitos Associados | RF-03 - O site deve oferecer uma funcionalidade de barra de pesquisa para permitir ao usuário localizar a receita que queira cozinhar                    |
+|   Objetivo do Teste   | Verificar se a barra de pesquisa está funcionando corretamente                                                                                           |
+|         Passos        | 1) Acessar o Navegador 2) Informar o endereço do Site 3) Fazer o Login 4)Clicar na barra de pesquisa 5) Verificar se a receita aparece ao ser pesquisada |
+|   Critérios de Êxito  | A página deve apresentar a receita pesquisada ou alguma similar                                                                                          |
+
+
+ Tabela 9: Plano de testes de software - 04
+|     Caso de Teste     | CT-03 - Visualizar receita procurada na barra de pesquisa                                                                                                |
+|:---------------------:|----------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Requisitos Associados | RF-03 - O site deve oferecer uma funcionalidade de barra de pesquisa para permitir ao usuário localizar a receita que queira cozinhar                    |
+|   Objetivo do Teste   | Verificar se a barra de pesquisa está funcionando corretamente                                                                                           |
+|         Passos        | 1) Acessar o Navegador 2) Informar o endereço do Site 3) Fazer o Login 4)Clicar na barra de pesquisa 5) Verificar se a receita aparece ao ser pesquisada |
+|   Critérios de Êxito  | A página deve apresentar a receita pesquisada ou alguma similar                                                                                          |
+
+ Tabela 10: Plano de testes de software - 05
+|     Caso de Teste     | CT-05 - Visualizar receitas salvas como preferidas                                                                                                                                                                  |
+|:---------------------:|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Requisitos Associados | RF-05 - O site deve permitir verificar as receitas salvas como preferidas                                                                                                                                           |
+|   Objetivo do Teste   | Verificar se ao clicar em favoritar as receitas estão sendo armazenadas na página Minhas Receitas                                                                                                                   |
+|         Passos        | 1) Acessar o Navegador 2) Informar o endereço do Site 3) Fazer o Login 4) Visualizar a listagem de receitas 5) Favoritar uma receita 6) Ir na página de Minhas Receitas 7)Verificar se a receita favoritada está lá |
+|   Critérios de Êxito  | A receita favoritada deve estar armazenada no Minhas receitas                                                                                                                                                       |
+
+
+ Tabela 11: Plano de testes de software - 06
+|     Caso de Teste     | CT-06 - Permitir favoritar as receitas                                                                                                                                        |
+|:---------------------:|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Requisitos Associados | RF-07 - O site deve permitir favoritar e salvar as receitas                                                                                                                   |
+|   Objetivo do Teste   | Verificar se o botão de receitas salvas está funcionando                                                                                                                      |
+|         Passos        | 1) Acessar o Navegador 2) Informar o endereço do Site 3) Fazer o Login 4) Visualizar a listagem de receitas 5) Favoritar uma receita 6) Verificar se o “coração” mudou de cor |
+|   Critérios de Êxito  | O símbolo do favoritar “mudar” de cor                                                                                                                                         |
+
+
+ Tabela 12: Plano de testes de software - 07
+|     Caso de Teste     | CT-07 - Login                                                                                                                                                                                                                                   |
+|:---------------------:|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Requisitos Associados | RF-06- O site deve ser acessado por meio de uma página de login. no qual o usuário logado terá acesso a todas as funcionalidades do site                                                                                                        |
+|   Objetivo do Teste   | Verificar se o usuário consegue fazer o login e acessar o site                                                                                                                                                                                  |
+|         Passos        | 1) Acessar o Navegador 2) Informar o endereço do Site 3) Clicar em “Encontrar Receitas” na homepage 4)Ao aparecer a página de login, clicar em "Inscreva-se gratuitamente” 5)Clicar em “Criar conta” 6) Tentar fazer o login com os mesmo dados |
+|   Critérios de Êxito  | O usuário conseguir criar a conta e acessar o site com os mesmos dados                                                                                                                                                                          |
+
+
+
+ Tabela 13: Plano de testes de software - 08
+|     Caso de Teste     | CT-08 - Visualizar Tela Sobre                                                                                      |
+|:---------------------:|--------------------------------------------------------------------------------------------------------------------|
+| Requisitos Associados | RF-08 - O site deve permitir visualizar uma tela com as informações da equipe e suas razões de ter criado a página |
+|   Objetivo do Teste   | Verificar se a tela Sobre está funcionando corretamente                                                            |
+|         Passos        | 1) Acessar o Navegador 2) Informar o endereço do Site 3) Visualizar a HomePage 4) Entrar na página Sobre           |
+|   Critérios de Êxito  | A tela sobre deve ser exibida com um texto que fale sobre as razões da criação do site                             |
+
+
+Tabela 14: Plano de testes de software - 09
+|     Caso de Teste     | CT-09 - O site deve ser aberto pelo link GitHub Pages                                                                                                                     |
+|:---------------------:|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Requisitos Associados | RNF-01 - O site deve ser publicado em um ambiente acessível publicamente na Internet (Repl.it, GitHub Pages, Heroku);                                                     |
+|   Objetivo do Teste   | Verificar se o site está abrindo corretamente no link disponibilizado pelo grupo                                                                                          |
+|         Passos        | 1) Acessar o Navegador 2) Informar o endereço do Site 3) Visualizar a página principal 4) Verificar o processo de carga                                                   |
+|   Critérios de Êxito  | Deve ser possível a visualização da página de login e das outras telas: Home Page, Minhas Receitas, Sobre, Encontrar Receitas. Todas devem estar funcionando corretamente |
+
+Tabela 15: Plano de testes de software - 10
+|     Caso de Teste     |     Caso de Teste     | CT-10 - Visualização em outros tamanhos de aparelho                                                                                                                                                                                                                       |
+|:---------------------:|:---------------------:|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Requisitos Associados | Requisitos Associados | RNF-02 - O site deverá ser responsivo permitindo a visualização em um celular de forma adequada                                                                                                                                                                           |
+|   Objetivo do Teste   |   Objetivo do Teste   | Verificar se a página está adaptando bem em smartphones                                                                                                                                                                                                                   |
+|         Passos        |         Passos        | 1) Abrir o site pelo celular (ou ao abrir no computador, clicar no botão direito, selecionar “Inspecionar”, e alterar as dimensões da página.) 3) Visualizar as páginas do site 4) Verificar se a listagem das receitas estão se adapatando com o tamanho do dispositivo. |
+|   Critérios de Êxito  |   Critérios de Êxito  | As página devem ter uma boa visibilidade em aparelhos celulares e tablet                                                                                                                                                                                                  |
+###Registros de Teste De Software
+
+Os resultados obtidos nos testes de software realizados são descritos nas tabelas a seguir.
+
+Tabela 16: Registro de testes de de software - 01
+| Caso de Teste | CT-01 - Visualizar lista de receitas na página principal (Home-Page)                                                                |
+|:-------------:|-------------------------------------------------------------------------------------------------------------------------------------|
+|     Teste     | ![image]()                                                                                                                              |
+|   Resultado   |  As receitas estão sendo exibidas corretamente no site uma embaixo da outra, com o resumo, tempo de preparo e rendimento de porções |
+
+
+
+
+Tabela 17: Registro de testes de de software - 02
+| Caso de Teste | CT-02 - Visualizar detalhes das receitas                                                                   |
+|:-------------:|------------------------------------------------------------------------------------------------------------|
+|     Teste     | #                                                                                                          |
+|   Resultado   |  A receita ao ser expandida, abre uma janela, com as seguintes informações: ingrediente e modo de preparo. |
+
+
+Tabela 18: Registro de testes de de software - 03
+| Caso de Teste | CT-03 - Visualizar receita procurada na barra de pesquisa           |
+|:-------------:|---------------------------------------------------------------------|
+|     Teste     | #                                                                   |
+|   Resultado   | A página apresenta as receitas que possuem o ingrediente pesquisado |
+
+
+Tabela 19: Registro de testes de de software - 04
+| Caso de Teste | CT-04 - Visualizar imagem da receita correspondente                                |
+|:-------------:|------------------------------------------------------------------------------------|
+|     Teste     | #                                                                                  |
+|   Resultado   | A receita ao ser expandida apareceu a imagem que corresponde com o nome da receita |
+
+
+Tabela 20: Registro de testes de de software - 05
+| Caso de Teste | CT-05 - Visualizar receitas salvas como preferidas     |
+|:-------------:|--------------------------------------------------------|
+|     Teste     | #                                                      |
+|   Resultado   | A receita favoritada foi armazenada no Minhas receitas |
+
+
+Tabela 21: Registro de testes de de software - 06
+| Caso de Teste | CT-06 - Permitir favoritar as receitas                                    |
+|:-------------:|---------------------------------------------------------------------------|
+|     Teste     | #                                                                         |
+|   Resultado   | A receita, ficou com um coração vermelho, demonstrando que foi favoritada |
+
+
+Tabela 22: Registro de testes de de software - 07
+| Caso de Teste | CT-07 - Login                                                          |
+|:-------------:|------------------------------------------------------------------------|
+|     Teste     | ##                                                                     |
+|   Resultado   | O usuário conseguiu criar a conta e acessar o site com os mesmos dados |
+
+
+Tabela 23: Registro de testes de de software - 08
+| Caso de Teste | CT-08 - Visualizar Tela Sobre                                                   |
+|:-------------:|---------------------------------------------------------------------------------|
+|     Teste     | #                                                                               |
+|   Resultado   | A tela Sobre é exibida com um texto que fala sobre as razões da criação do site |
+
+Tabela 24: Registro de testes de de software - 09
+|    Caso de Teste   | CT-09 - O site deve ser aberto pelo link GitHub Pages                                                                                                                 |
+|:------------------:|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|        Teste       | #                                                                                                                                                                     |
+| Critérios de Êxito | Foir possível a visualização da página de login e das outras telas: Home Page, Minhas Receitas, Sobre, Encontrar Receitas. Todas devem estar funcionando corretamente |
+
+Tabela 25: Registro de testes de de software - 10
+| Caso de Teste | CT-10 - Visualização em outros tamanhos de aparelho         |
+|:-------------:|-------------------------------------------------------------|
+|     Teste     | #                                                           |
+|   Resultado   | A página devem tem uma boa visibilidade em outros aparelhos |
+
+###Plano de Teste de Usabilidade
+
+
+O planejamento dos testes de usabilidade a serem realizados com usuários são descritos na Tabela a seguir.
+
+Identificação de objetivos do teste de usabilidade
+Detalhes do público envolvido nos testes
+Roteiro detalhado das tarefas que foram desempenhadas pelos usuários
+
+Tabela 26: Plano de testes de usabilidade
+|           Objetivos          | O plano de teste de usabilidade, tem como objetivo buscar a opinião do usuário sobre as funcionalidades que o site oferece                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+|:----------------------------:|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|       Público envolvido      | O público-alvo envolvido nesse teste são jovens adultos, que possuem idade entre 18 e 25 anos, o teste vai ser feito com 8 usuários.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| Roteiro das tarefas de teste | 1) Acessar o Navegador 2) Informar o endereço do Site 3) Clicar em “Buscar Receita” na homepage 4)Criar conta, ao, clicar em "Inscreva-se gratuitamente” 5)Fazer o login com os dados da conta criada anteriormente 6) Olhar a listagem de receitas 7) Abrir uma receita ao clicar “Mão na massa” 8)Clicar em “Deixa pra lá” para sair 9)Favoritar um receita 10)  Entrar na página “Minhas Receitas” e verificar se a receita favoritada anteriormente está armazenada lá. 11)Clicar em “Sair” 12)Fechar o navegador e reabrir novamente 13) Tente fazer o login com os dados que foi criado a conta 14)Entre na página Sobre |
+6.4 Registro de Testes de Usabilidade
+
+Os resultados obtidos nos testes de usabilidade realizados são descritos na Tabela a seguir.
+
+* Relatório com detalhamento das pessoas envolvidas no teste (indicar claramente o número de usuários que testaram o sistema)
+* Relatório com registro dos testes feitos: fotos, prints de telas, relatos dos usuários
+* Relatório de problemas identificados nos testes e propostas de correções/ajustes
+
+
+Tabela 27: Registro de testes de usabilidade - Usuário 1
+|           Objetivos          | O plano de teste de usabilidade, tem como objetivo buscar a opinião do usuário sobre as funcionalidades que o site oferece                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+|:----------------------------:|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|       Público envolvido      | O público-alvo envolvido nesse teste são jovens adultos, que possuem idade entre 18 e 25 anos, o teste vai ser feito com 8 usuários.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| Roteiro das tarefas de teste | 1) Acessar o Navegador 2) Informar o endereço do Site 3) Clicar em “Buscar Receita” na homepage 4)Criar conta, ao, clicar em "Inscreva-se gratuitamente” 5)Fazer o login com os dados da conta criada anteriormente 6) Olhar a listagem de receitas 7) Abrir uma receita ao clicar “Mão na massa” 8)Clicar em “Deixa pra lá” para sair 9)Favoritar um receita 10)  Entrar na página “Minhas Receitas” e verificar se a receita favoritada anteriormente está armazenada lá. 11)Clicar em “Sair” 12)Fechar o navegador e reabrir novamente 13) Tente fazer o login com os dados que foi criado a conta 14)Entre na página Sobre |
+
+
+Tabela 28: Registro de testes de usabilidade - Usuário 2
+|       Nome       | Gabriel Ferreira                           |
+|:----------------:|--------------------------------------------|
+| Idade e Ocupação | 19 Universitário de Sistemas de Informação |
+|      Relatos     | #                                          |
+
+
+Tabela 29: Registro de testes de usabilidade - Usuário 3
+|       Nome       | Juliano Aparecido |
+|:----------------:|-------------------|
+| Idade e Ocupação | 25 Programador    |
+|      Relatos     | #                 |
+
+
+Tabela 30: Registro de testes de usabilidade - Usuário 4
+|       Nome       | Ana Clara Gonçalves                   |
+|:----------------:|---------------------------------------|
+| Idade e Ocupação | .21 anos Estudante de Educação Fisica |
+|      Relatos     | #                                     |
+
+
+Tabela 31: Registro de testes de usabilidade - Usuário 5
+|       Nome       | Eduardo Pereira              |
+|:----------------:|------------------------------|
+| Idade e Ocupação | .23 anos Consultor de vendas |
+|      Relatos     | #                            |
+
+
+Tabela 32: Registro de testes de usabilidade - Usuário 6
+|       Nome       | Gabriel Bernardo de Paula Silva            |
+|:----------------:|--------------------------------------------|
+| Idade e Ocupação | .24 anos Universitário de Designer Gráfico |
+|      Relatos     | #                                          |
+
+
+Tabela 33: Registro de testes de usabilidade - Usuário 7
+|       Nome       | Maria Sofia Mendonça                         |
+|:----------------:|----------------------------------------------|
+| Idade e Ocupação | .19 anos Estudante de Engenharia de Produção |
+|      Relatos     | #                                            |
+
+
+Tabela 34: Registro de testes de usabilidade - Usuário 8
+|       Nome       | Douglas Diones Marcelino Silva                  |
+|:----------------:|-------------------------------------------------|
+| Idade e Ocupação | 20 anos Universitário de Ciências da Computação |
+|      Relatos     | #                                               |
+
+
+
 
 ## Ferramentas de Testes (Opcional)
 
